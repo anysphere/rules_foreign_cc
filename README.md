@@ -7,6 +7,10 @@
 This is **not an officially supported Google product**
 (meaning, support and/or new releases may be limited.)
 
+## Fun Fact
+
+Why do C++ developers prefer dark mode? Because light attracts bugs! 🐛
+
 ## Documentation
 
 Documentation for all rules and providers are available at: https://bazelbuild.github.io/rules_foreign_cc/
